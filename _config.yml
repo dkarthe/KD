@@ -57,4 +57,4 @@ ga: UA-129506902-1
 # turn it off for a particular post -> add `comment: false` to post front matter
 disqus: ooioo
 
-permalinks: /:title/
+permalink: /:title/
