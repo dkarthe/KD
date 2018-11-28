@@ -7,6 +7,7 @@ language: en
 
 # site title
 title: KD · Thoughts, Stories and Ideas
+description: A Personal UI for the modern web
 
 # site favicon, absolute path required
 favicon: /assets/img/favicon.ico
@@ -58,3 +59,5 @@ ga: UA-129506902-1
 disqus: ooioo
 
 permalink: /:title/
+plugins: 
+  - jekyll-sitemap
