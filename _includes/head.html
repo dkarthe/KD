@@ -18,6 +18,9 @@
 <!-- RSS -->
 <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ '/feed.xml' | relative_url }}" />
 
+<!-- Canonical -->
+<link rel="canonical" href="{{ page.url | prepend: site.url }}">
+
 {% if site.ga %}
 {% include ga.html ga = site.ga %}
 {% endif %}
