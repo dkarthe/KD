@@ -59,5 +59,4 @@ ga: UA-129506902-1
 disqus: ooioo
 
 permalink: /:title/
-plugins: 
-  - jekyll-sitemap
+plugins: - jekyll-sitemap
