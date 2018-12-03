@@ -8,6 +8,7 @@ language: en
 # site title
 title: KD · Thoughts, Stories and Ideas
 description: A Personal UI for the modern web
+keyword: [kd,blog,karthik,Thoughts,Stories,Ideas]
 
 # site favicon, absolute path required
 favicon: /assets/img/favicon.ico
